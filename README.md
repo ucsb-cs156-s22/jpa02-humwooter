@@ -2,7 +2,7 @@
 
 
 
-Repo: https://ucsb-cs156-s22/jpa02-humwooter
+Repo: https://github.com/ucsb-cs156-s22/jpa02-humwooter
 
 
 On Heroku: https://jpa02-katyayani.herokuapp.com
